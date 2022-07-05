@@ -1,0 +1,990 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.4.14,
+* Autoprefixer: v10.4.7
+* Browsers: last 4 version
+*/
+
+*
+{
+    font-family: 'Mulish', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+body
+{
+    margin: 0;
+}
+header
+{
+    background-color: #E5E5E5;
+
+}
+.container
+{
+    max-width: 1260px;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+.namanganliklar24
+{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+.telegramm
+{
+    background: -webkit-gradient(linear, left top, right top, color-stop(15.07%, #1E96C8), color-stop(85.96%, #37AEE2));
+    background: -o-linear-gradient(left, #1E96C8 15.07%, #37AEE2 85.96%);
+    background: linear-gradient(90deg, #1E96C8 15.07%, #37AEE2 85.96%);
+    border-radius: 5px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    text-decoration: none;
+    padding: 12px 20px;
+    
+
+}
+.telegramm__img
+{
+    width: 10px;
+    padding: 7.31px;
+}
+.namangan__ul
+{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    list-style: none;
+    padding-right: 250px;
+
+}
+.logo img
+{
+    background-color: #ffffff;
+    padding: 4px 8px;
+}
+.namangan__li
+{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding: 25px;
+}
+.namangan__qidiruv
+{
+    padding-right: 42.53px;
+}
+.namangan__ru
+{
+    padding-right: 31px;
+}
+
+.nav__ul
+{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: distribute;
+    justify-content: space-around;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center; 
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    background-color: #ffffff;
+    padding: 20px 0px;
+
+}
+.namangan__nav
+{
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+.reklama img
+{
+    display: block;
+    margin: 0 auto;
+    width: 1261px;
+}
+.reklama__img{
+    margin: 0;
+    width: 100%;
+}
+
+.namangan__li__span
+{
+    color: #1E96C8;
+    font-weight: 700;
+    font-size: 20px;
+    padding-right: 10px;
+}
+.nav__li
+{
+    font-weight: 900;
+    font-size: 20px;
+    opacity: 70%;
+}
+.nav__li__link
+{
+    text-decoration: none;
+    color: black;
+}
+.nav__li__link:hover
+{
+    color: blue;
+}
+.nav__li__link--active
+{
+    color: green;
+    font-size: 25px;
+    opacity: 100%;
+}
+.hidden
+{
+    display: none;
+}
+/* ========== Main-section ========== */
+.namangan__main
+{
+    background-color: #ffffff; 
+}
+.visually-hidden
+{
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    border: 0;
+    clip: rect(0 0 0 0)
+}
+.section__reklama
+{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    background-color: #E5E5E5;
+    margin-top: 45px;
+    text-align: center;
+}
+.section__virus
+{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+.main__virus
+{
+    padding-left: 25px;
+}
+.chiziq
+{
+    padding-left: 71px;
+    padding-right: 30px;
+}
+.yangiliklar
+{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding: 20px;
+    
+}
+.yangiliklar__h2
+{
+    font-size: 17px;
+}
+.yangiliklar__p
+{
+    font-size: 15px;
+}
+.sardoba__inner
+{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    background-color: #E5E5E5
+}
+.yangiliklar__img
+{
+    padding-right: 16px;
+}
+.reklama__h2
+{
+    font-size: 20px;
+    line-height: 24px;
+
+}
+.reklama__h3
+{ 
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    color: #202020;
+
+}
+.reklama__img
+{
+    margin-top: 38px;
+    margin-left: 31px;
+}
+.reklama__link
+{
+    display: block;
+    text-decoration: none;
+    background-color: #295093;
+    width: 221px;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    margin-left: 414px;
+    color: white;
+    margin-bottom: 15px;
+}
+/* ========== footer ========== */
+.footer__main
+{
+    background-color: #295093;
+    color: white;
+    margin-top: 50px;
+    padding: 20px;
+}
+.footer__logo
+{
+   width: 173px;
+   height: 21px;
+   left: 128px;
+   top: 2120px;
+   font-family: 'Rubik';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 16px;
+   line-height: 19px;
+   background-color: #295093;
+}
+.footer__telegramm
+{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    background: #295093;
+    width: 19.38px;
+    -ms-flex-pack: distribute;
+    justify-content: space-around;
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    padding: 0;
+    margin: 0;
+}
+.footer__one
+{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: distribute;
+    justify-content: space-around;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+.footer__podpisat
+{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: distribute;
+    justify-content: space-around;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    color: #295093;
+}
+.footer__belgi
+{
+    background-color: white;
+    border-radius: 5px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: blue;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    text-decoration: none;
+    padding: 12px 20px;
+
+
+}
+.span__nav
+{   display: block;
+    margin-bottom: 5px;
+    
+}
+.footer__namanganlilar24
+{
+    font-size: 16px;
+    margin-right: 0px;
+}
+.span__nav2
+{
+    display: block;
+    padding-bottom: 13px;
+    margin-top: 15px;
+}
+.footer__end
+{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+}
+.footer__li
+{
+    list-style-type: none;
+    padding: 1px;
+    padding-bottom: 20px;
+}
+
+
+/* Aricle Section */
+.prezident__img{
+    margin-top: 112px;
+    margin-bottom: 36px;
+    width: 794px;
+    height: 379px;
+    left: 119px;
+    top: 421px;
+}
+.prezident__h2
+{
+   font-size: 18px;
+}
+.prezident__p
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+}
+.prezident__inner
+{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+.prezident__reklama__h2
+{
+    
+    font-size: 20px;
+    text-align: left;
+  
+
+}
+.prezident__reklama__h3
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    color: #202020;
+}
+.prezident__reklama__img
+{
+    width: 386px;
+    height: 477px;
+    left: calc(50% - 386px/2 + 406px);
+    top: 914px;
+    background: url(image.png);
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.prezident__yangiliklari
+{
+    display: block;
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    margin-left: 20px;
+}
+.prezident__span
+{
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #7688A4;
+
+}
+.prezident__section
+{
+    background-color: white;
+}
+.prezident__rang
+{
+    background-color: #E5E5E5;
+}
+.prezident__link
+{
+    text-decoration: none   ;
+    margin-left: 10px;
+}
+/* ========== Aricle section end ========== */
+.tezkor__yangiliklar__ul
+{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: distribute;
+    justify-content: space-around;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    list-style-type: none;
+    background-color: #E5E5E5;
+    padding: 0px;
+    margin: 0px;
+}
+.tezkor__yangiliklar__li
+{
+    margin-right: 20px;
+}
+.tezkor__yangiliklar__img
+{
+    width: 386px;
+    height: 190px;
+    left: 120px;
+    top: 1538px;
+    background: url(image.png);
+    border-radius: 5px;
+}
+.prezident__inner
+{
+    margin-top: 5ps;
+    background-color: #E5E5E5
+
+}
+.tezkor__yangiliklar__p
+{
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #6B6D97;
+    margin-bottom: 54px;
+}
+.tezkor__yangiliklar__h3
+{
+    font-size: 17px;
+}
+
+/* =========== kvadrat =========== */
+.Электронная
+{
+    border: 2px solid #BCC3CD;
+    margin-left: 90px;
+    margin-top: 82px;
+    background: rgba(252, 252, 253, 0.936);
+    -webkit-box-shadow: -8px 8px 9px rgba(57, 57, 57, 0.25);
+    box-shadow: -8px 8px 9px rgba(57, 57, 57, 0.25);
+    border-radius: 5px;
+    padding-left: 25px;
+    padding-right: 20px;
+    padding-top: 23px;
+    padding-bottom: 30px;
+}
+.Электронная__почта
+{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;  
+}
+.Социальные__сети
+{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center; 
+}
+.Телеграм__канал
+{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center; 
+}
+.Мобильная__приложение
+{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center; 
+}
+.form__main__inner
+{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: flex-start;  
+}
+.Электрон__p
+{
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+
+color: #888888;
+
+}
+.Электрон__logo
+{
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 33px;
+    color: #295091;
+    margin-left: 189px;
+}
+/* ========== contact ========= */
+.Напишите
+{
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+    margin-top: 40px;
+    margin-bottom: 12px;
+
+}
+.sorov
+{
+    display: block;
+    background: #F1F1F1;
+    opacity: 0.3;
+    border: 2px solid #285193;
+    border-radius: 5px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #888888;
+    width: 600px;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.text
+{
+    display: block;
+    background: #F1F1F1;
+    opacity: 0.3;
+    border: 2px solid #285193;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 0;
+    margin-top: 20px;
+    
+    
+ }
+ 
+ .file
+ {
+   display: flex;
+   justify-content: space-between;
+   align-items: flex-start;
+   border: 2px solid #285193;
+   width: 221px;
+   opacity: 0.3;
+   padding: 15px 51px 14px 16px;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   border-radius: 5px;
+ }
+
+ input[type="file"]{
+    display: none;
+}
+
+.file__1
+ {
+    display: flex;
+   justify-content: space-between;
+   align-items: flex-start;
+   border: 2px solid #285193;
+   width: 221px;
+   opacity: 0.3;
+   padding: 15px 51px 14px 16px;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   border-radius: 5px;
+    left: 135px;
+    top: 1083px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #888888;
+
+
+ }
+ .kod
+ {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    
+
+ }
+ .info__link
+ {
+    text-decoration: none;
+    width: 222px;
+    height: 21px;
+    left: 1077px;
+    top: 468px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #888888;
+
+ }
+ .form__button
+ {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 221px;
+    height: 50px;
+    left: 119px;
+    top: 1138px;
+    background: #295093;
+    border: 2px solid rgba(40, 81, 147, 0.54);
+    border-radius: 5px;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 40px;
+ }
+ .form__h3
+ {
+    margin-left: 18px;
+    width: 88px;
+    height: 29px;
+    left: 358px;
+    top: 1078px;
+    font-family: 'Song Myung';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 29px;
+    color: #000000;
+
+ }
+ /* ========== Home ========== */
+ .stop__ul
+ {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: distribute;
+    justify-content: space-around;
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    list-style-type: none;
+    margin-right: 95px;
+ }
+ .stop__ul__main
+ {
+    list-style-type: none;
+    margin: 0;
+ }
+ .stop__li
+ {
+    -ms-flex-pack: distribute;
+    justify-content: space-around;
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    margin-left: 20px;
+    margin-top: 18px;
+ }
+ .stop__h2
+ {
+    width: 380px;
+    height: 42px;
+    left: 118px;
+    top: 706px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 20px;
+    color: #202020;
+ }
+ .stop_span
+ {
+    width: 125px;
+    height: 19px;
+    left: 118px;
+    top: 759px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #6B6D97;
+
+ }
+ .stop__section
+ {
+    background-color: #E5E5E5;
+    margin-top: 18px;
+ }
+ .уведомительный__документ
+ {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    width: 100%;
+    height: 91px;
+    left: 119px;
+    top: 1103px;
+    background: rgba(239, 186, 84, 0.18);
+    border-radius: 5px;
+    margin-top: 67px;
+    margin-bottom: 38px;
+ }
+ .qongiroqcha
+ {
+    width: 29.25px;
+    height: 34.6px;
+    margin-left: 35px;
+ }
+ .уведом
+ {
+    width: 610px;
+    height: 26px;
+    left: 201px;
+    top: 1136px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 22px;
+    line-height: 30px;
+    color: #000000;
+    margin-right: 200px;
+    padding-top: 30px;
+    padding-bottom: 33px;
+
+ }
+ .уведом__link
+ {
+    width: 264px;
+    height: 42px;
+    left: 1035px;
+    top: 1128px;
+    background: linear-gradient(90deg, #FE5C28 0%, rgba(255, 139, 54, 0.9) 88.43%);
+    border-radius: 5px;
+    padding: 8px;
+    text-align: center;
+    text-decoration: none;
+    margin-right: 20px;
+ }
+ .уведом__span
+ {
+    text-align: center;
+    vertical-align: -webkit-baseline-middle;
+    width: 241px;
+    height: 26px;
+    left: 1050px;
+    top: 1136px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+ }
+ .мобильное
+ {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    padding: 82px;
+    background-color: #E5E5E5;
+    margin-top: 38px;
+    margin-bottom: 38px;
+ }
+ .app__img
+ {
+    width: 162.71px;
+height: 50px;
+left: 953px;
+top: 2399px;
+ }
+ /* ========== Modal ========== */
+ .asiide__inner
+ {
+    border: 1px solid blue;
+    background-color: #FFFFFF;
+    width: 790px;
+    height: 215px;
+    text-align: center;
+    margin: auto;
+    position: absolute;
+ }
+ .aside__h2
+ {
+    width: 678px;
+    height: 62px;
+    left: 388px;
+    top: 327px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 31px;
+    color: #295093;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    margin-left: 55px;
+
+ }
+ .aside__div
+ { 
+    /* position: absolute; */
+    width: 150px;
+    height: 61px;
+    margin: auto;
+ }
+ .aside__x
+ {
+   
+   margin-left: 740px;
+   padding: 10px 0 0 0;
+}
+.aside__section
+{
+ 
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 250px;
+    
+}
+.start
+{
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    position: absolute;
+    opacity: 0.5;
+    
+}
